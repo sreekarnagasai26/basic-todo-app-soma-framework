@@ -1,0 +1,19 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore build directories
+dist/
+build/
+
+# Ignore log files
+*.log
+
+# Ignore environment files
+.env
+
+# Ignore temporary files
+*.tmp
+
+# Ignore specific file types
+*.DS_Store
+*.swp
